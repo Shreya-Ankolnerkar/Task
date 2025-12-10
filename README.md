@@ -7,6 +7,7 @@ A full-stack web application featuring a modern landing page and an admin panel.
 ![image alt](https://github.com/Shreya-Ankolnerkar/Task/blob/353efa272d67b6658150444160300aeb061f6b43/Screenshot%202025-12-10%20105044.png)
 ![image alt](https://github.com/Shreya-Ankolnerkar/Task/blob/0100fc6ad9865fa87a72c2a19525d39c572f9ec1/Screenshot%202025-12-10%20105100.png)
 ![image alt](https://github.com/Shreya-Ankolnerkar/Task/blob/c4b4fad2d8a150bb724c4d53e76fdb56632a779d/Screenshot%202025-12-10%20105118.png)
+![image alt](https://github.com/Shreya-Ankolnerkar/Task/blob/9225b2635169bb4c61b906eb867513e7994bd07f/Screenshot%202025-12-10%20105138.png)
 
 
 ## Features / What it does  
