@@ -3,6 +3,9 @@
 ## Description  
 A full-stack web application featuring a modern landing page and an admin panel. The landing page displays projects dynamically fetched from the backend, along with client information, contact details, and newsletter subscriptions. The admin panel allows administrators to manage projects and clients, view contact form submissions, and monitor subscriber data with an intuitive, clean interface.
 
+![image alt](https://github.com/Shreya-Ankolnerkar/Task/blob/db9ddd31d8044045e8e74feae7307a16621d5618/Screenshot%202025-12-10%20105014.png)
+
+
 ## Features / What it does  
 1. Landing Page Features
 
