@@ -4,7 +4,7 @@
 A full-stack web application featuring a modern landing page and an admin panel. The landing page displays projects dynamically fetched from the backend, along with client information, contact details, and newsletter subscriptions. The admin panel allows administrators to manage projects and clients, view contact form submissions, and monitor subscriber data with an intuitive, clean interface.
 
 ## Features / What it does  
-- Landing Page
+1. Landing Page Features
 
 Hero Section: A clean introduction banner for your application.
 
@@ -21,7 +21,7 @@ Contact Section (Separate Page): Users can submit inquiries, stored in the backe
 Newsletter Subscription (Separate Page): Users can subscribe with their email; data sent to backend. 
 
 
-Admin Panel Features
+2. Admin Panel Features
 
 Add Project
 
